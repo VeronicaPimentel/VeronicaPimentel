@@ -1,4 +1,6 @@
-# Olá! Seja bem-vindo(a) ao meu Git!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=700&lines=Estudante+de+Ciencia+da+Computacao;Futura+desenvolvedora+Python;Interesse+em+Inteligencia+Artificial" alt="Apresentação animada" />
+</div># Olá! Seja bem-vindo(a) ao meu Git!
 
 ## Sobre mim
 

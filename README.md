@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1200&pause=300&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+import+inteligencia_artificial;%3E+python+%7C+machine_learning;%3E+explorando+novas+tecnologias;%3E+construindo+meu+futuro+em+IA" alt="Código animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1200&pause=300&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+import+inteligencia_artificial;%3E+python+%7C;%3E+explorando+novas+tecnologias;%3E+construindo+meu+futuro+em+IA" alt="Código animado" />
 </div>
 </div># Olá! Seja bem-vindo(a) ao meu Git!
 
